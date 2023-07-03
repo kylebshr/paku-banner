@@ -1,0 +1,21 @@
+{
+    "identifier": "test_banner",
+    "version": {
+        "comparison": "greater",
+        "value": "4.8.5"
+    },
+    "canBeDismissed": false,
+    "symbol": {
+        "name": "heart.fill",
+        "color": "red"
+    },
+    "title": "Thank You",
+    "text": "Unfortunately, Paku’s time has come to end. Thank you for the support.",
+    "actions": [
+        {
+            "isPrimary": true,
+            "title": "Read More",
+            "url": "https://paku.app"
+        },
+    ]
+}
