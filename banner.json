@@ -2,7 +2,7 @@
     "identifier": "test_banner",
     "version": {
         "comparison": "greater",
-        "value": "4.8.5"
+        "build": 100
     },
     "canBeDismissed": false,
     "symbol": {
