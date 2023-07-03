@@ -1,17 +1,17 @@
 [
     {
-        "identifier": "test_banner",
+        "identifier": "test_banner_2",
         "version": {
             "comparison": "greater",
             "build": 100
         },
-        "canBeDismissed": false,
+        "canBeDismissed": true,
         "symbol": {
-            "name": "heart.fill",
+            "name": "gamecontroller.fill",
             "color": "red"
         },
-        "title": "Thank You",
-        "text": "Unfortunately, Paku’s time has come to end. Thank you for the support.",
+        "title": "Game Over",
+        "text": "Unfortunately, Paku’s time has come to end. PurpleAir graciously allowed me to use their API for the last three years, but has decided to start charging more than I can afford. Thank you for the support.",
         "actions": [
             {
                 "isPrimary": true,
