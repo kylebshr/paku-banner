@@ -7,10 +7,10 @@
         },
         "canBeDismissed": false,
         "symbol": {
-            "name": "square.and.arrow.down",
-            "color": "blue"
+            "name": "arrow.down.app.fill",
+            "color": "secondary"
         },
-        "title": "Please Update Paku",
+        "title": "Update Required",
         "text": "This version of Paku is no longer supported. Please download the latest version from the App Store.",
         "actions": [
             {
