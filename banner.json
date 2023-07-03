@@ -1,28 +1,23 @@
 [
     {
-        "identifier": "test_banner_2",
+        "identifier": "kill_switch",
         "version": {
-            "comparison": "greater",
-            "build": 1000
+            "comparison": "less",
+            "build": 331
         },
         "canBeDismissed": false,
         "symbol": {
-            "name": "gamecontroller.fill",
-            "color": "red"
+            "name": "square.and.arrow.down",
+            "color": "blue"
         },
-        "title": "Game Over",
-        "text": "Unfortunately, Paku’s time has come to end. PurpleAir graciously allowed me to use their API for the last three years, but has decided to start charging more than I can afford. Thank you for the support.",
+        "title": "Please Update Paku",
+        "text": "This version of Paku is no longer supported. Please download the latest version from the App Store.",
         "actions": [
             {
                 "isPrimary": true,
-                "title": "Read More",
-                "url": "https://paku.app"
-            },
-            {
-                "isPrimary": false,
-                "title": "PurpleAir.com",
-                "url": "https://purpleair.com"
-            },
+                "title": "Update",
+                "url": "https://apps.apple.com/us/app/paku-aqi-widget/id1534130193"
+            }
         ]
     }
 ]
