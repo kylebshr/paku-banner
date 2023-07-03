@@ -5,7 +5,7 @@
             "comparison": "greater",
             "build": 1000
         },
-        "canBeDismissed": true,
+        "canBeDismissed": false,
         "symbol": {
             "name": "gamecontroller.fill",
             "color": "red"
