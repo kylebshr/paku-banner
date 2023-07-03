@@ -3,7 +3,7 @@
         "identifier": "test_banner_2",
         "version": {
             "comparison": "greater",
-            "build": 100
+            "build": 1000
         },
         "canBeDismissed": true,
         "symbol": {
