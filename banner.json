@@ -18,6 +18,11 @@
                 "title": "Read More",
                 "url": "https://paku.app"
             },
+            {
+                "isPrimary": false,
+                "title": "PurpleAir.com",
+                "url": "https://purpleair.com"
+            },
         ]
     }
 ]
