@@ -8,7 +8,7 @@
         "canBeDismissed": false,
         "symbol": {
             "name": "arrow.down.app.fill",
-            "color": "secondary"
+            "color": "red"
         },
         "title": "Update Required",
         "text": "This version of Paku is no longer supported. Please download the latest version from the App Store.",
