@@ -21,7 +21,7 @@
         ]
     },
     {
-        "identifier": "purpleair_data_issue_2026_07",
+        "identifier": "purpleair_data_issue_2026_07_v2",
         "canBeDismissed": true,
         "symbol": {
             "name": "wrench.and.screwdriver.fill",
