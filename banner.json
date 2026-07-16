@@ -1,16 +1,5 @@
 [
     {
-        "identifier": "purpleair_data_issue_2026_07",
-        "canBeDismissed": true,
-        "symbol": {
-            "name": "wrench.and.screwdriver.fill",
-            "color": "blue"
-        },
-        "title": "PurpleAir Data Issues",
-        "text": "We’re investigating an issue loading PurpleAir data. Some sensors may be unavailable or show outdated readings. Thanks for your patience!",
-        "actions": []
-    },
-    {
         "identifier": "kill_switch",
         "version": {
             "comparison": "less",
