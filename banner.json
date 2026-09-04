@@ -5,6 +5,7 @@
             "comparison": "less",
             "build": 331
         },
+        "placement": "fullScreen",
         "canBeDismissed": false,
         "symbol": {
             "name": "arrow.down.app.fill",
